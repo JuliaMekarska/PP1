@@ -1,0 +1,9 @@
+milk
+water
+sugar
+bread
+cheese
+salad
+tomatoes
+potatoes
+rolls

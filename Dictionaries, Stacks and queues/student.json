@@ -1,0 +1,10 @@
+{
+    "surname": "Kowalsky",
+    "name": "Andrzej",
+    "age": 20,
+    "adress": "Karmelicka 35, 30-082 Krakow",
+    "phone_numbers": {
+        "work": 511423654,
+        "private": 927183756
+    }
+}

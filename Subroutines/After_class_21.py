@@ -1,0 +1,1 @@
+numbers = (lambda x, y: print(bool(x > y)) if (x > y) else print(bool(x > y)))(x = int(input("Enter the first number: ")), y = int(input("Enter the second number: ")))

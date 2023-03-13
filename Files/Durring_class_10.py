@@ -1,0 +1,7 @@
+file = open("Personal_data.txt", "w")
+file.write("Julia Mekarska\n")
+file.write("Uniwersytet Ekonomiczny w Krakowie\n")
+file.write("Informatyka Stosowana\n")
+file = open("Personal_data.txt")
+content = file.read()
+file.close()

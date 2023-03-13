@@ -1,0 +1,1 @@
+(lambda x: print(bool(x%2 == 0)) if (x%2 == 0) else print(bool(x%2 == 0)))(x = int(input("Enter the number: ")))
